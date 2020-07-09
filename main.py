@@ -120,4 +120,6 @@ except:
     except:
         pass
     sleep(2)
-    sys.exit()
+while True:
+    if len(input('>> Pease press Enter to close program:\n'))==0:
+        sys.exit()
