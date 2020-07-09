@@ -4,6 +4,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from time import sleep
 from datetime import datetime
 import getpass
+import sys
 
 class Instabot:
     def __init__(self, username, pw):
@@ -114,3 +115,9 @@ try:
     my_bot.exit()
 except:
     print('>> Some error detected, could be caused due to slow internet speed, please kindly restart process, sorry for the inconvenience!')
+    try:
+        my_bot.exit()
+    except:
+        pass
+    sleep(2)
+    sys.exit()
