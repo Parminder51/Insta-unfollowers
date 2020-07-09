@@ -7,3 +7,5 @@ Just let the program run on it and it will show result
 
 The only required packages are Selenium and webdriver-manager.
 Please feel free to raise a PR if you encounter some error or problem.
+
+![picture alt](pic1.png)
