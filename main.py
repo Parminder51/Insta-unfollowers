@@ -121,5 +121,5 @@ except:
         pass
     sleep(2)
 while True:
-    if len(input('>> Pease press Enter to close program:\n'))==0:
+    if len(input('>> Please press Enter to close program:\n'))==0:
         sys.exit()
