@@ -9,3 +9,9 @@ The only required packages are Selenium and webdriver-manager.
 Please feel free to raise a PR if you encounter some error or problem.
 
 ![picture alt](pic1.png)
+
+Also a [link](https://drive.google.com/file/d/1Eh3XfEFKbKw_LoQYulDpq7rcEoU1Cn6g/view?usp=sharing) if you want to download an .exe file and run it on your Windows device.
+
+
+
+Note*-> You do need Chrome already installed for the .exe file to run.
